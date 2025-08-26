@@ -1,0 +1,1 @@
+El flujo inicia ejecutando el instalador del servicio, este permanecera activo escuchando el bot para recibir instrucciones, el bot contiene las instrucciones como /start /list y /ejecutar <script>, tambien se crean logs del servicio y del bot, para eliminar se puede ejecutar el desintalador y detener las ejecuciones de python o reiniciar.
