@@ -5,7 +5,7 @@ setlocal
 set SERVICIO=TelegramBotService
 
 echo.
-echo === GESTIÓN DEL SERVICIO: %SERVICIO% ===
+echo === GESTION DEL SERVICIO: %SERVICIO% ===
 
 :: Verificar si el servicio existe
 sc query %SERVICIO% >nul 2>&1
