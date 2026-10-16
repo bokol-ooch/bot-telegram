@@ -36,8 +36,6 @@ C:\TelegramBot\
 └── refresh_modelo.log     # Salida de los refrescos de Power BI
 ```
 
-`telegram_bot_service.py` (versión anterior basada en pywin32) **ya no se usa**; NSSM lo reemplaza.
-
 ---
 
 ## Requisitos
